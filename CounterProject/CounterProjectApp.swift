@@ -1,10 +1,3 @@
-//
-//  CounterProjectApp.swift
-//  CounterProject
-//
-//  Created by Roman Gorbenko on 16.02.2025.
-//
-
 import SwiftUI
 
 @main

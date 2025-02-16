@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    let counterViewModel: CounterViewModel
+    @ObservedObject var counterViewModel: CounterViewModel
     
     var body: some View {
         // Clean code below. And write yours.
