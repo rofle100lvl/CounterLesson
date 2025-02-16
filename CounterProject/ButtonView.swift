@@ -5,6 +5,7 @@ struct ButtonView: View {
     let action: () -> Void
     
     var body: some View {
-        // Here your code
+        // Clean code below. And write yours.
+        Text("Hello world")
     }
 }
